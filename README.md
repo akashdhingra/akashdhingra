@@ -16,9 +16,6 @@ Here are some ideas to get you started:
 
 # Hi there, I'm Akash Dhingra - 👋 
 
-
-## I'm a Husband, Father, Developer, and Teacher!!
-
 - 🔭 I’m currently working on Full Stack web development project
 - 🌱 I’m currently learning new technologies
 - 💬 Ask me about anything
