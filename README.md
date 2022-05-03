@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning new technologies
 - 💬 Ask me about anything
 - 📫 How to reach me: akashdhingra1996@gmail.com
+
+![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashdhingra&theme=dark&show_icons=true)
