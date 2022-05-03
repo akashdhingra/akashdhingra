@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 
 ![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashdhingra&theme=dark&show_icons=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashdhingra&langs_count=8)](https://github.com/akashdhingra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashdhingra&langs_count=8&theme=dark)](https://github.com/akashdhingra/github-readme-stats)
