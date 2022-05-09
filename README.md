@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 
 
-![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashdhingra&theme=algolia&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashdhingra&theme=algolia&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashdhingra&layout=compact&theme=algolia)](https://github.com/akashdhingra/github-readme-stats)
 
 
 [instagram]: https://www.instagram.com/akash_dhingra_/
