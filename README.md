@@ -22,12 +22,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: akashdhingra1996@gmail.com
 
 ### Connect with me:
-
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/akash_dhingra_/)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/akash_dhingra_/)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/akash-dhingra/)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/akash-dhingra)
-[![website](./img/instagram-dark.svg)](https://instagram.com/akash-dhingra)
+[![website](./img/instagram-dark.svg)](https://www.instagram.com/akash_dhingra_/)
 
 
 
