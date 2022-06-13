@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning new technologies
 - 💬 Ask me about anything
 - 📫 How to reach me: akashdhingra1996@gmail.com
+- ⚡ Thought: Being good isn't good enough, so always be the best!!!
 
 ### Connect with me:
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/akash-dhingra/)
