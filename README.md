@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-hello
+
 # Hi there, I'm Akash Dhingra - 👋 
 
 - 🔭 I’m currently working on Full Stack web development project 👨🏻‍💻
