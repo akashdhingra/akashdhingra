@@ -27,8 +27,6 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/akash_dhingra_/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashdhingra)](https://github.com/akashdhingra/github-readme-stats)
-
 ![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashdhingra&theme=algolia&show_icons=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashdhingra&layout=compact&theme=algolia)](https://github.com/akashdhingra/github-readme-stats)
 
 
