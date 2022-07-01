@@ -33,10 +33,8 @@ Here are some ideas to get you started:
 <a href="https://github.com/akashdhingra">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akashdhingra&show_icons=true&theme=algolia&line_height=27" alt="akashdhingra's github stats"/>
 </a>
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=akashdhingra)
+
 
 [instagram]: https://www.instagram.com/akash_dhingra_/
 [linkedin]: https://www.linkedin.com/in/akash-dhingra/
-![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashdhingra&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akashdhingra&layout=compact)
 
