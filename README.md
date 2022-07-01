@@ -37,6 +37,7 @@ Here are some ideas to get you started:
 
 [instagram]: https://www.instagram.com/akash_dhingra_/
 [linkedin]: https://www.linkedin.com/in/akash-dhingra/
+![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=akashdhingra&show_icons=true&theme=tokyonight)
 
 
 
