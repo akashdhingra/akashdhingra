@@ -37,9 +37,9 @@ Here are some ideas to get you started:
 -->
 
 ## 📊 GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=akashdhingra&theme=react&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=akashdhingra&theme=react&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=akashdhingra&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=akashdhingra&theme=algolia&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=akashdhingra&theme=algolia&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=akashdhingra&theme=algolia&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
 [instagram]: https://www.instagram.com/akash_dhingra_/
