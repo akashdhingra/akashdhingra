@@ -27,17 +27,19 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/akash_dhingra_/)
 
+<!--
 <a href="https://github.com/akashdhingra">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashdhingra&theme=algolia&layout=compact&langs_count=10" />
 </a>
 <a href="https://github.com/akashdhingra">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=akashdhingra&show_icons=true&theme=algolia&line_height=27" alt="akashdhingra's github stats"/>
 </a>
+-->
 
 ## 📊 GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=akashdhingra&theme=react&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=akashdhingra&theme=react&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=akashdhingra&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact&hide=jupyter%20notebook)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=akashdhingra&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
 [instagram]: https://www.instagram.com/akash_dhingra_/
