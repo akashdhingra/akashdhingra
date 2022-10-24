@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 
 # Hi there, I'm Akash Dhingra - 👋 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashdhingra&label=Views&color=blueviolet&style=plastic" alt="akashdhingra" /> </p>
+
 - 🔭 I’m currently working on Full Stack web development project 👨🏻‍💻
 - 🌱 I’m currently learning new technologies 📚
 - 💬 Ask me about anything ⌨️
